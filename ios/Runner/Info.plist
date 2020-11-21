@@ -18,6 +18,7 @@
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
+	<!-- Google Sign-in Section -->
 	<key>CFBundleURLTypes</key>
 	<array>
 		<dict>
@@ -25,10 +26,12 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.893614701966-9icn86n48j5hgtpp2lb0vvkmbi6j86de</string>
+				<string>com.googleusercontent.apps.925119659237-pe9l3bf7vi5l2r9u0lrj8vkbru9tq4i1</string>
 			</array>
 		</dict>
 	</array>
+	<!-- End of the Google Sign-in Section -->
+
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
